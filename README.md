@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Testing
 - 🌱 I’m currently learning Javascript, Phython
 - 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me ...
+- 📫 How to reach me kavithra.ravi@gmail.com 
 
 <!---
 KavithraRavi/KavithraRavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
